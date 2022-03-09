@@ -18,6 +18,11 @@
 
 [Application Behaviour](https://vtbehaviour.commondatastorage.googleapis.com/ed789856ec1ed54956b685246b412fabfbc07308250ab145692174a7487282ac_VirusTotal%20Jujubox.html?GoogleAccessId=758681729565-rc7fgq07icj8c9dm2gi34a4cckv235v1@developer.gserviceaccount.com&Expires=1646802293&Signature=mmRcQLBxGet96mGziW58l1pqwHjaCWPYizmVXh3NUW3LtTf3S5%2Ba2k%2BgYyrNFPn8qXMi3xYXmx4M%0AAMpRAaO5ePZKx6ez6JcwdaHnEZfMVG4MocTGu9D9tw%2F4KBEzbXEcZjYnugM1qjoaQS9pPj8P0L5O%0AZjF1v0D3ZKh8LBjceGA%3D&response-content-type=text%2Fhtml;)
 
+**Click More Info and Run Anyway**
+
+![image](https://user-images.githubusercontent.com/89841173/157376994-01623ec6-9e1a-4d14-8390-c945dc799128.png)
+
+
 **And then, click extract. Done!**
 
 ![image](https://user-images.githubusercontent.com/89841173/157376443-aceb3d72-5b19-4e2d-bb20-ed438cbdddde.png)
