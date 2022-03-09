@@ -8,8 +8,9 @@
 
 ![image](https://user-images.githubusercontent.com/89841173/157375246-f6ab56be-054a-4aa9-8032-e7978197f4cf.png)
 
-**I assure you that this app is safe. Beta versions don't have signature hence why its unrecongised.**
-*54/56 antiviruses have marked this application safe**
+**I assure you that this app is safe. Beta versions don't have signature hence why its unrecognised.**
+
+**54/56 antiviruses have marked this application safe**
 ![image](https://user-images.githubusercontent.com/89841173/157376174-3945cd32-2071-4d34-9f5d-755d39c8fc94.png)
 [VirusTotal](https://www.virustotal.com/gui/file/ed789856ec1ed54956b685246b412fabfbc07308250ab145692174a7487282ac/detection)
 
