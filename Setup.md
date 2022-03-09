@@ -22,3 +22,4 @@
 
 ![image](https://user-images.githubusercontent.com/89841173/157376443-aceb3d72-5b19-4e2d-bb20-ed438cbdddde.png)
 
+> This guide was made for BETA releases
